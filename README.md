@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/ea_py.svg)](https://anaconda.org/conda-forge/ea_py)
 
 
-**Python Boilerplate contains all the boilerplate you need to create a Python package.**
+**Sample package for GIS Analysis **
 
 
 -   Free software: MIT License
